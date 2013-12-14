@@ -1,3 +1,3 @@
-var gmail = require('./lib/gmail.js');
+var Gmail = require('./lib/gmail.js');
 
 module.exports = new Gmail();
