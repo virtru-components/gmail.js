@@ -2,10 +2,10 @@
   "name": "gmail.js",
   "repo": "virtru-components/gmail.js",
   "description": "Makes gmail.js a component",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "keywords": [],
   "dependencies": {
-    "virtru-components/jquery-pack": "0.1.0"
+    "virtru-components/jquery-pack": "0.1.2"
   },
   "development": {},
   "license": "MIT",
